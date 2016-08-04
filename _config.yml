@@ -1,7 +1,7 @@
 # Settings
 gems: [jekyll-paginate]
 permalink:           pretty
-baseurl:             http://cycade.github.io
+baseurl:             'cycade.github.io'
 paginate:            5
 encoding:            utf-8
 
@@ -13,5 +13,7 @@ tagline:             Rauschen der Wind
 author:
   name:              Li Chenqiang
   email:             inahocyc@gmail.com
-  github:            https://github.com/Cycade
+  githubAddress:     https://github.com/Cycade
   # avater:
+
+excerpt_separator:   <!--more-->
