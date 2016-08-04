@@ -12,6 +12,8 @@ tagline:             Rauschen der Wind
 # About/contact
 author:
   name:              Li Chenqiang
+  description:       Cycade's Blog
+  url:               cycade.github.io
   email:             inahocyc@gmail.com
   githubAddress:     https://github.com/Cycade
   # avater:
