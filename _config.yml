@@ -1,7 +1,7 @@
 # Settings
 gems: [jekyll-paginate]
 permalink:           pretty
-baseurl:             'cycade.github.io'
+baseurl:             https://cycade.github.io
 paginate:            5
 encoding:            utf-8
 
