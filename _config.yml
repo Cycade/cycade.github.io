@@ -1,21 +1,31 @@
-# Settings
-gems: [jekyll-paginate]
-permalink:           pretty
-baseurl:             https://cycade.github.io
-paginate:            5
-encoding:            utf-8
+title: 如何一本正经的瞎扯
+description: Cycade's Blog
+author: Cycade
+github: https://github.com/cycade
+about: 半路出家，是个弱鸡，精通自黑，能写JS。
+disqus_shortname: stackproblems
 
-version:             1.0.0
-title:               Cycade's Blog
-tagline:             Rauschen der Wind
+enableTags: true
+tagarray: []
 
-# About/contact
-author:
-  name:              Li Chenqiang
-  description:       Cycade's Blog
-  url:               cycade.github.io
-  email:             inahocyc@gmail.com
-  githubAddress:     https://github.com/Cycade
-  # avater:
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/profile.php?id=100009483876282"
+    - icon: fa-github
+      link: "https://github.com/cycade"
 
-excerpt_separator:   <!--more-->
+urls:
+    - text: About Me
+      url: /about/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://cycade.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
