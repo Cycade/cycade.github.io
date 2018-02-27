@@ -1,2 +1,2 @@
-## Cycade's Blog
-这可能是最无聊的 Jekyll 用法。
+**Personal homepage reloaded.**
+28/02/2018
