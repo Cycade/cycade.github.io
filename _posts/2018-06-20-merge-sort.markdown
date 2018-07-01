@@ -4,6 +4,7 @@ title:  "ALG-Week1 merge-sort"
 date:   2018-06-20 10:11:21 +1000
 categories: algorithm
 ---
+
 # 自顶向下的归并排序
 自顶向下的归并排序是分治算法(divide-and-conquer)的一个最典型的例子。
 如果要将一个长度为 `N` 的数组排列，先将这个数组分为两个长度为 `2/N` 的数组，分别对其排序，再将两者归并到一起。
